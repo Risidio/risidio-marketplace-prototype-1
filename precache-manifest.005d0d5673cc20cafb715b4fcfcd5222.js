@@ -1,7 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b01d998944559b2880a9",
+    "revision": "f31790f13c80e875560f",
     "url": "/risidio-marketplace-prototype-1/css/app.6739bc43.css"
+  },
+  {
+    "revision": "5e11d88a823671a93a47",
+    "url": "/risidio-marketplace-prototype-1/css/chunk-0af4a2db.4dc8eed3.css"
   },
   {
     "revision": "f2fdb34b31e3339d887c",
@@ -20,10 +24,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/risidio-marketplace-prototype-1/css/chunk-3b50d98a.d2278819.css"
   },
   {
-    "revision": "65e1fa73c2f9f125f263",
-    "url": "/risidio-marketplace-prototype-1/css/chunk-3c319bfa.8bd5cce7.css"
-  },
-  {
     "revision": "b6a032e5742b7bec9531",
     "url": "/risidio-marketplace-prototype-1/css/chunk-46580c8e.a8aa2a08.css"
   },
@@ -36,12 +36,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/risidio-marketplace-prototype-1/css/chunk-510cc591.af3628dd.css"
   },
   {
-    "revision": "354cbadc285009075b8e",
-    "url": "/risidio-marketplace-prototype-1/css/chunk-6802d80c.599a3882.css"
-  },
-  {
     "revision": "700146c9c5cf48755223",
     "url": "/risidio-marketplace-prototype-1/css/chunk-6aa82058.b8719002.css"
+  },
+  {
+    "revision": "b4d404ad790472822e29",
+    "url": "/risidio-marketplace-prototype-1/css/chunk-6bb6bc86.1fafd720.css"
   },
   {
     "revision": "b68ffdd4a116b33180e4",
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/risidio-marketplace-prototype-1/css/chunk-c3498e94.f00736d1.css"
   },
   {
-    "revision": "250269cd469026acf2b9",
-    "url": "/risidio-marketplace-prototype-1/css/chunk-d8f8f274.f0b98f22.css"
+    "revision": "645b2e890ac79c4a3199",
+    "url": "/risidio-marketplace-prototype-1/css/chunk-ecd38a48.eeca9dff.css"
   },
   {
     "revision": "7d92cecacd8f9ec85d95",
@@ -132,12 +132,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/risidio-marketplace-prototype-1/img/triangle-and-painter.1ae12827.png"
   },
   {
-    "revision": "8dbb646f5c2947e9701dff4862e391e3",
+    "revision": "54b955ff37a9a7d890e902b974f84124",
     "url": "/risidio-marketplace-prototype-1/index.html"
   },
   {
-    "revision": "b01d998944559b2880a9",
-    "url": "/risidio-marketplace-prototype-1/js/app.95e4b190.js"
+    "revision": "f31790f13c80e875560f",
+    "url": "/risidio-marketplace-prototype-1/js/app.7b255fa2.js"
+  },
+  {
+    "revision": "5e11d88a823671a93a47",
+    "url": "/risidio-marketplace-prototype-1/js/chunk-0af4a2db.217633a9.js"
   },
   {
     "revision": "f2fdb34b31e3339d887c",
@@ -164,10 +168,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/risidio-marketplace-prototype-1/js/chunk-3b50d98a.0ebd30ce.js"
   },
   {
-    "revision": "65e1fa73c2f9f125f263",
-    "url": "/risidio-marketplace-prototype-1/js/chunk-3c319bfa.96ea598b.js"
-  },
-  {
     "revision": "5ae92c3c9c7be494f612",
     "url": "/risidio-marketplace-prototype-1/js/chunk-42278f09.b26eed63.js"
   },
@@ -184,12 +184,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/risidio-marketplace-prototype-1/js/chunk-510cc591.cbc4e297.js"
   },
   {
-    "revision": "354cbadc285009075b8e",
-    "url": "/risidio-marketplace-prototype-1/js/chunk-6802d80c.5b501fbe.js"
-  },
-  {
     "revision": "700146c9c5cf48755223",
     "url": "/risidio-marketplace-prototype-1/js/chunk-6aa82058.b8aebce0.js"
+  },
+  {
+    "revision": "b4d404ad790472822e29",
+    "url": "/risidio-marketplace-prototype-1/js/chunk-6bb6bc86.bdec8f9e.js"
   },
   {
     "revision": "b68ffdd4a116b33180e4",
@@ -208,8 +208,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/risidio-marketplace-prototype-1/js/chunk-c3498e94.9728a6a4.js"
   },
   {
-    "revision": "250269cd469026acf2b9",
-    "url": "/risidio-marketplace-prototype-1/js/chunk-d8f8f274.8eb45b7c.js"
+    "revision": "645b2e890ac79c4a3199",
+    "url": "/risidio-marketplace-prototype-1/js/chunk-ecd38a48.63076fd4.js"
   },
   {
     "revision": "7d92cecacd8f9ec85d95",
