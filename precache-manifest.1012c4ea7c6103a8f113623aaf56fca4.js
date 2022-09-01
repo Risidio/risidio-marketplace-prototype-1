@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e0c2e2943a208705da75",
+    "revision": "b01d998944559b2880a9",
     "url": "/risidio-marketplace-prototype-1/css/app.6739bc43.css"
-  },
-  {
-    "revision": "f9661a00e103a4f9e002",
-    "url": "/risidio-marketplace-prototype-1/css/chunk-0151b3bd.e769faee.css"
   },
   {
     "revision": "f2fdb34b31e3339d887c",
     "url": "/risidio-marketplace-prototype-1/css/chunk-0df9b5ab.ce93ef47.css"
   },
   {
-    "revision": "2268f98edb0a6d38c41f",
-    "url": "/risidio-marketplace-prototype-1/css/chunk-258a5efe.55c7855a.css"
+    "revision": "1e8566776afea3a73736",
+    "url": "/risidio-marketplace-prototype-1/css/chunk-12ed473d.622a5c5b.css"
   },
   {
-    "revision": "f8feba880e7fad146ab4",
-    "url": "/risidio-marketplace-prototype-1/css/chunk-34eb698c.420baf0c.css"
+    "revision": "484bcf6dcd99961797b6",
+    "url": "/risidio-marketplace-prototype-1/css/chunk-36bc3340.35f1598c.css"
   },
   {
     "revision": "0ae515804f5092dfd9bb",
     "url": "/risidio-marketplace-prototype-1/css/chunk-3b50d98a.d2278819.css"
+  },
+  {
+    "revision": "65e1fa73c2f9f125f263",
+    "url": "/risidio-marketplace-prototype-1/css/chunk-3c319bfa.8bd5cce7.css"
   },
   {
     "revision": "b6a032e5742b7bec9531",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/risidio-marketplace-prototype-1/css/chunk-510cc591.af3628dd.css"
   },
   {
-    "revision": "133dd53a12afb1aff5d8",
-    "url": "/risidio-marketplace-prototype-1/css/chunk-522d82d9.cb471d6e.css"
+    "revision": "354cbadc285009075b8e",
+    "url": "/risidio-marketplace-prototype-1/css/chunk-6802d80c.599a3882.css"
   },
   {
     "revision": "700146c9c5cf48755223",
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/risidio-marketplace-prototype-1/css/chunk-c3498e94.f00736d1.css"
   },
   {
-    "revision": "15de32f3b71bbb8b8ca3",
-    "url": "/risidio-marketplace-prototype-1/css/chunk-dbc703c4.373c98b4.css"
+    "revision": "250269cd469026acf2b9",
+    "url": "/risidio-marketplace-prototype-1/css/chunk-d8f8f274.f0b98f22.css"
   },
   {
     "revision": "7d92cecacd8f9ec85d95",
@@ -132,24 +132,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/risidio-marketplace-prototype-1/img/triangle-and-painter.1ae12827.png"
   },
   {
-    "revision": "a236c35d31fb258df92d730d28b4717d",
+    "revision": "8dbb646f5c2947e9701dff4862e391e3",
     "url": "/risidio-marketplace-prototype-1/index.html"
   },
   {
-    "revision": "e0c2e2943a208705da75",
-    "url": "/risidio-marketplace-prototype-1/js/app.9cbbcb65.js"
-  },
-  {
-    "revision": "f9661a00e103a4f9e002",
-    "url": "/risidio-marketplace-prototype-1/js/chunk-0151b3bd.aef1ad98.js"
+    "revision": "b01d998944559b2880a9",
+    "url": "/risidio-marketplace-prototype-1/js/app.95e4b190.js"
   },
   {
     "revision": "f2fdb34b31e3339d887c",
     "url": "/risidio-marketplace-prototype-1/js/chunk-0df9b5ab.65f55738.js"
   },
   {
-    "revision": "2268f98edb0a6d38c41f",
-    "url": "/risidio-marketplace-prototype-1/js/chunk-258a5efe.5b4b6724.js"
+    "revision": "1e8566776afea3a73736",
+    "url": "/risidio-marketplace-prototype-1/js/chunk-12ed473d.020ba08c.js"
   },
   {
     "revision": "897ccca8cd2204194129",
@@ -160,12 +156,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/risidio-marketplace-prototype-1/js/chunk-2d225278.0d3686b2.js"
   },
   {
-    "revision": "f8feba880e7fad146ab4",
-    "url": "/risidio-marketplace-prototype-1/js/chunk-34eb698c.d9c8c8ee.js"
+    "revision": "484bcf6dcd99961797b6",
+    "url": "/risidio-marketplace-prototype-1/js/chunk-36bc3340.31db7d63.js"
   },
   {
     "revision": "0ae515804f5092dfd9bb",
     "url": "/risidio-marketplace-prototype-1/js/chunk-3b50d98a.0ebd30ce.js"
+  },
+  {
+    "revision": "65e1fa73c2f9f125f263",
+    "url": "/risidio-marketplace-prototype-1/js/chunk-3c319bfa.96ea598b.js"
   },
   {
     "revision": "5ae92c3c9c7be494f612",
@@ -184,8 +184,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/risidio-marketplace-prototype-1/js/chunk-510cc591.cbc4e297.js"
   },
   {
-    "revision": "133dd53a12afb1aff5d8",
-    "url": "/risidio-marketplace-prototype-1/js/chunk-522d82d9.dbf49171.js"
+    "revision": "354cbadc285009075b8e",
+    "url": "/risidio-marketplace-prototype-1/js/chunk-6802d80c.5b501fbe.js"
   },
   {
     "revision": "700146c9c5cf48755223",
@@ -208,8 +208,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/risidio-marketplace-prototype-1/js/chunk-c3498e94.9728a6a4.js"
   },
   {
-    "revision": "15de32f3b71bbb8b8ca3",
-    "url": "/risidio-marketplace-prototype-1/js/chunk-dbc703c4.45973885.js"
+    "revision": "250269cd469026acf2b9",
+    "url": "/risidio-marketplace-prototype-1/js/chunk-d8f8f274.8eb45b7c.js"
   },
   {
     "revision": "7d92cecacd8f9ec85d95",
