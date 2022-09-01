@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/risidio-marketplace-prototype-1/precache-manifest.8035e6015b81738557485db30a7fd33b.js"
+  "/risidio-marketplace-prototype-1/precache-manifest.5dccb5a4c77afe199cf3ab21935d7d59.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "risidio_marketplace"});
